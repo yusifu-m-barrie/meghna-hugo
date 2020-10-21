@@ -3,7 +3,7 @@ about:
   enable: true
   title: About Us
   about_item:
-  - icon: ti-wifi
+  - icon: ti-brain
     title: What We DO
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
       libero, perspiciatis eos provident laborum eum dignissimos.
